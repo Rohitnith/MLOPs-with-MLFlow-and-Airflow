@@ -1,4 +1,4 @@
-# MLOps-With-MLFlow-and-Airflow
+# MLOps using MLFlow and Airflow
 
 ### Problem Statement
 - Code pro is an edtech startup that had a phenomenal seed A funding round. They used this funding to gain significant market share by campaigning aggressively. Due to aggressive campaigns the amount of junk leads increased.
